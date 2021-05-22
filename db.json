@@ -4,7 +4,23 @@
       "id": "1",
       "GameName": "Subway Surfers",
       "descbanner": "SURF the urban wave! DODGE the oncoming trains!",
-      "Desc": "",
+      "Desc": [
+        {
+          "desc1": "DASH as fast as you can!"
+        },
+        { "desc1": "DODGE the oncoming trains!" },
+        { "desc1": "" },
+        {
+          "desc1": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog."
+        },
+        { "desc1": "" },
+        { "desc1": "★ Grind trains with your cool crew!" },
+        { "desc1": "★ Colorful and vivid HD graphics!" },
+        { "desc1": "★ Hoverboard Surfing!" },
+        { "desc1": "★ Paint powered jetpack!" },
+        { "desc1": "★ Lightning fast swipe acrobatics!" },
+        { "desc1": "★ Challenge and help your friends!" }
+      ],
       "Rate": 4.9,
       "Cat": "Sports",
       "subtitle": "SYBO Games",
